@@ -1,3 +1,6 @@
+# Snowboy Hotword Detection: um pouco mais sobre a API 
+https://www.embarcados.com.br/hotword-detection/ 
+
 # Thomas: TJBot based assistant
 
 Interact with tjbot in your own language, a voice based assistant fully customizable with a second screen.
